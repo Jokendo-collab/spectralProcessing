@@ -5,7 +5,7 @@ This repository contains the information used in pre-processing of the MS/MS spe
 - [x] Remove low quality spectra that are unassigned
 - [x] Remove the redudant spectra
 - [x] Identify human peptides (proteins from the classical analysis)
-- [x] Identify non-human peptides (proteins0
+- [x] Identify non-human peptides (proteins)
 - [x] Carry out open modification search (Including both human and non-human protein peptides)
 - [x] Identify non-peptide compounds (metabolites) from singuly charged spectra
 - [x] Re-callibrate the overall assignment rate based on the sum of the above, relative to the total number of high quality non-redudant spectra.
