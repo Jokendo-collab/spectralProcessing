@@ -13,13 +13,13 @@ This repository contains the information used in pre-processing of the MS/MS spe
 ## Identification of human and non-human peptides
 This was done using the MSfragger version (V 3.1.1)
 ![figure_1](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/cleanedUncleanedMetaNovocleaned%20search%20pct.png)
-> Figure 1:
+> Figure 1: Venn diagram showing the protein identifications overlaps from the standard uncleaned spectra, the pCleaned specral data and the cleaned data search against sample specific database. The identification overlap is shown in percentage.
 
 ![Figure_2](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/cleanedmetauncleaned.png)
-> Figure 2:
+> Figure 2: Venn diagram showing the protein identifications overlaps from the standard uncleaned spectra, the pCleaned specral data and the cleaned data search against sample specific database. The identification overlap is shown in absolute values.
 
 ![Figure_3](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/metaStandardSpectraabs.png)
-> Figure 3:
+> Figure 3: Venn diagram showing the protein identifications overlap between uncleaned spectra, pCleaned spectra and the sample specific database seach against the standard uncleaned spectra in absolute values.
 
 ![Figure_4](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/metanovouncleanedSpectra.png)
-> Fifure 4:
+> Fifure 4: Venn diagram showing the protein identifications overlap between uncleaned spectra, pCleaned spectra and the sample specific database seach against the standard uncleaned spectra in percentages.
