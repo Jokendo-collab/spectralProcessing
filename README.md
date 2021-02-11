@@ -12,3 +12,14 @@ This repository contains the information used in pre-processing of the MS/MS spe
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Identification of human and non-human peptides
 This was done using the MSfragger version (V 3.1.1)
+![figure_1](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/cleanedUncleanedMetaNovocleaned%20search%20pct.png)
+> Figure 1:
+
+![Figure_2](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/cleanedmetauncleaned.png)
+> Figure 2:
+
+![Figure_3](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/metaStandardSpectraabs.png)
+> Figure 3:
+
+![Figure_4](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/metanovouncleanedSpectra.png)
+> Fifure 4:
