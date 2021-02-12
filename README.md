@@ -30,7 +30,6 @@ This was done using the MSfragger version (V 3.1.1)
 ![Figure_7](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/pcleanvsstandardSearch.png)
 > Figure 7: pCleaned vs standard spectral searches using the standard human database
 -----------------------------------------------------------------------------------------------------------------------------------------
-
 ## Open modification searching
 - [x] This analysis is done to determine the potential post-translational modifications that could be present in our data.
 - [x] We use MSfragger v 3.1.1 for the opem modification searches of the PTMs and the PTMprophet in determining the actual PTMs in our data.
