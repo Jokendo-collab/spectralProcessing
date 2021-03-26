@@ -4,7 +4,7 @@ This repository contains the information used in pre-processing of the MS/MS spe
 ## Experimental procedure
 - [x] Remove low quality and spectra that are unassigned/ non-informative. The non-informative spectra were removed by use of pClean bioconductor tool.
 - [x] Identify human peptides (proteins from the classical analysis)
-![image](https://user-images.githubusercontent.com/26459707/112679481-e2f52800-8e74-11eb-8193-297cf585883b.png)
+- ![image](https://user-images.githubusercontent.com/26459707/112679481-e2f52800-8e74-11eb-8193-297cf585883b.png)
 > Filtering the MS/MS to increase signal to noise ration (S/N)
 - [x] Identify non-human peptides (proteins)
 - [x] Carry out open modification search (Including both human and non-human protein peptides)
