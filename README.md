@@ -6,8 +6,6 @@ This repository contains the information used in pre-processing of the MS/MS spe
 - ![image](https://user-images.githubusercontent.com/26459707/112679481-e2f52800-8e74-11eb-8193-297cf585883b.png)
 > Filtering the MS/MS to increase signal to noise ration (S/N)
 - [x] Identify human peptides (proteins from the classical analysis)
-![image](https://user-images.githubusercontent.com/26459707/112682822-51d48000-8e79-11eb-86f5-dc80c139cb29.png)
-> pClean workflow for MGF processing
 - [x] Identify non-human peptides (proteins)
 - [x] Carry out open modification search (Including both human and non-human protein peptides)
 - [x] Identify non-peptide compounds (metabolites) from singuly charged spectra
