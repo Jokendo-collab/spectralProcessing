@@ -2,13 +2,14 @@
 This repository contains the information used in pre-processing of the MS/MS spectra and how this can be used to improve the identification of non-human peptides from the raw files.
 
 ## Experimental procedure
-- [x] Remove low quality and spectra that are unassigned/ non-informative. The non-informative spectra were removed by use of pClean bioconductor tool
+- [x] Filtering the identified spectra from unidentified spectra; this was accomplished using `Spectra Bioconductor` package.
+- [x] Remove low quality and spectra that are non-informative (removing spectra with low Sn/N) ratio. The non-informative spectra were removed by use of pClean bioconductor tool
 - ![image](https://user-images.githubusercontent.com/26459707/112679481-e2f52800-8e74-11eb-8193-297cf585883b.png)
 > Filtering the MS/MS to increase signal to noise ration (S/N)
-- [x] Identify human peptides (proteins from the classical analysis); MSfragger search engine through fragpipe
-- [x] Identify non-human peptides (proteins); Sample specific construction using metanovo and sequence database search using msfragger through fragpipe
-- [x] Carry out open modification search (Including both human and non-human protein peptides); Open Search using MSfragger through fragpipe
-- [x] Identify non-peptide compounds (metabolites) from singuly charged spectra; Extraction of singly charged spectra was done using MSconvert and metabolomics pipeline
+- [x] Identify human peptides (proteins from the classical analysis); Maxquant sequence search engine using human proteome database downloaded from Uniprot repository
+- [x] Identify non-human peptides (proteins); Sample specific construction using metanovo and sequence database search using Maxquant
+- [x] **Carry out open modification search (Including both human and non-human protein peptides); Open Search using MSfragger through fragpipe**
+- [x] **Identify non-peptide compounds (metabolites) from singuly charged spectra; Extraction of singly charged spectra was done using MSconvert and metabolomics pipeline**
 - [x] Re-callibrate the overall assignment rate based on the sum of the above, relative to the total number of high quality non-redudant spectra.
 - [x] The clearance of uninformative MS/MS signals was done using pClean [tool](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.9b00141?rand=ztz0p6rs). This was done to remove the low quality and redudant spectra from the RAW files prior to the standard database search.
 -------------------------------------------------------------------------------------------------------------------------------------
