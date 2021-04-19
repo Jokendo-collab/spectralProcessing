@@ -13,6 +13,12 @@ This repository contains the information used in pre-processing of the MS/MS spe
 - [x] Re-callibrate the overall assignment rate based on the sum of the above, relative to the total number of high quality non-redudant spectra.
 - [x] The clearance of uninformative MS/MS signals was done using pClean [tool](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.9b00141?rand=ztz0p6rs). This was done to remove the low quality and redudant spectra from the RAW files prior to the standard database search.
 -------------------------------------------------------------------------------------------------------------------------------------
+### Results table
+|SIM         | RTB    | PTB    | LTB   |
+|------------- | ------------- | ------------ | --------|
+|2002 px       | 1927 px       | 2047 Px      | 1913|
+|19238 pep     | 18411 peptides| 18574      | 17741|
+
 ## Identification of human and non-human peptides
 This was done using the MSfragger version (V 3.1.1)
 ![figure_1](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/cleanedUncleanedMetaNovocleaned%20search%20pct.png)
