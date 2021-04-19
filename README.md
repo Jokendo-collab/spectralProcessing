@@ -16,9 +16,9 @@ This repository contains the information used in pre-processing of the MS/MS spe
 ### Results table
 |SIM         | RTB    | PTB    | LTB   |
 |------------- | ------------- | ------------ | --------|
-|2002 px       | 1927 px       | 2047 Px      | 1913|
-|19238 pep     | 18411 peptides| 18574      | 17741|
-
+|444.9140859       | 1927 px       | 2047 Px      | 1913|
+|603.9456463     | 18411 peptides| 18574      | 17741|
+|               |
 ## Identification of human and non-human peptides
 This was done using the MSfragger version (V 3.1.1)
 ![figure_1](https://github.com/javanOkendo/spectralProcessing/blob/main/Figures/cleanedUncleanedMetaNovocleaned%20search%20pct.png)
