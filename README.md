@@ -1,7 +1,7 @@
 # Introduction
 This repository contains the information used in pre-processing of the MS/MS spectra and how this can be used to improve the identification of non-human peptides from the raw files.
 
-## Experimental procedure
+## Experimental procedure.
 - [x] Filtering the identified spectra from unidentified spectra; this was accomplished using `Spectra Bioconductor` package.
 - [x] Remove low quality and spectra that are non-informative (removing spectra with low Sn/N) ratio. The non-informative spectra were removed by use of pClean bioconductor tool
 - ![image](https://user-images.githubusercontent.com/26459707/112679481-e2f52800-8e74-11eb-8193-297cf585883b.png)
