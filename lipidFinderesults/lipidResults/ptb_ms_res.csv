@@ -1,0 +1,26 @@
+Input Mass,Matched Mass,Delta,Name,Formula,Adduct,Class
+456.236169,456.235700,0.000500,"LPS(13:0)",C19H39NO9P,[M+H]+,Glycerophosphoserines
+469.255591,469.256100,0.000500,"LPG(15:1)",C21H42O9P,[M+H]+,Glycerophosphoglycerols
+470.251525,470.251300,0.000200,"LPS(14:0)",C20H41NO9P,[M+H]+,Glycerophosphoserines
+510.282910,510.282600,0.000300,"LPS(17:1)",C23H45NO9P,[M+H]+,Glycerophosphoserines
+510.450927,510.451700,0.000800,"CAR(24:1)",C31H60NO4,[M+H]+,Fatty esters
+528.308729,528.308500,0.000300,"LPE(22:5)",C27H47NO7P,[M+H]+,Glycerophosphoethanolamines
+544.508652,544.508800,0.000100,"NAE(34:4)",C36H66NO2,[M+H]+,Fatty amides
+558.294516,558.294300,0.000300,"SHexSph(t18:1)",C24H48NO11S,[M+H]+,Acidic glycosphingolipids
+558.295127,558.294300,0.000900,"SHexSph(t18:1)",C24H48NO11S,[M+H]+,Acidic glycosphingolipids
+607.346722,607.347700,0.000900,"MGDG(24:6)",C33H51O10,[M+H]+,Glycosyldiradylglycerols
+633.294526,633.293900,0.000600,"SQDG(21:4)",C30H49O12S,[M+H]+,Glycosyldiradylglycerols
+663.341789,663.340900,0.000900,"SQDG(23:3)",C32H55O12S,[M+H]+,Glycosyldiradylglycerols
+675.340028,675.340900,0.000800,"SQDG(24:4)",C33H55O12S,[M+H]+,Glycosyldiradylglycerols
+688.381993,688.382000,0.000000,"PS(28:4(OH))",C34H59NO11P,[M+H]+,Glycerophosphoserines
+721.586339,721.585400,0.000900,"PE-Cer(t37:0)",C39H82N2O7P,[M+H]+,Phosphosphingolipids
+721.586339,721.585400,0.000900,"SM(t34:0)",C39H82N2O7P,[M+H]+,Phosphosphingolipids
+725.270193,725.269800,0.000400,"LPIP(22:6)",C31H51O15P2,[M+H]+,Glycerophosphoinositol monophosphates
+725.270293,725.269800,0.000500,"LPIP(22:6)",C31H51O15P2,[M+H]+,Glycerophosphoinositol monophosphates
+786.506198,786.506800,0.000600,"PE(40:9)",C45H73NO8P,[M+H]+,Glycerophosphoethanolamines
+823.399539,823.400500,0.000900,"PIP(26:0(OH))",C35H69O17P2,[M+H]+,Glycerophosphoinositol monophosphates
+919.905421,919.905200,0.000200,"DG(57:0)",C60H119O5,[M+H]+,Diradylglycerols
+919.905421,919.905200,0.000200,"TG(O-57:0)",C60H119O5,[M+H]+,Triradylglycerols
+943.808044,943.808900,0.000900,"PA(53:0)",C56H112O8P,[M+H]+,Glycerophosphates
+943.808044,943.808900,0.000900,"PA(P-53:0(OH))",C56H112O8P,[M+H]+,Glycerophosphates
+1034.789114,1034.790000,0.000900,"SHexCer(t51:1)",C57H112NO12S,[M+H]+,Acidic glycosphingolipids

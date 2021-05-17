@@ -1,0 +1,27 @@
+Input Mass,Matched Mass,Delta,Name,Formula,Adduct,Class
+370.235439,370.235300,0.000100,"S1P(t16:0)",C16H37NO6P,[M+H]+,Sphingoid bases
+531.272407,531.271700,0.000700,"LPG(20:5)",C26H44O9P,[M+H]+,Glycerophosphoglycerols
+558.293806,558.294300,0.000500,"SHexSph(t18:1)",C24H48NO11S,[M+H]+,Acidic glycosphingolipids
+587.355029,587.355500,0.000400,"LPI(O-18:0)",C27H56O11P,[M+H]+,Glycerophosphoinositols
+597.580640,597.581600,0.001000,"DG(O-35:0)",C38H77O4,[M+H]+,Diradylglycerols
+599.318415,599.319100,0.000700,"LPI(18:1)",C27H52O12P,[M+H]+,Glycerophosphoinositols
+619.287964,619.287800,0.000200,"LPI(20:5)",C29H48O12P,[M+H]+,Glycerophosphoinositols
+649.335403,649.334700,0.000700,"LPI(22:4)",C31H54O12P,[M+H]+,Glycerophosphoinositols
+675.341311,675.340900,0.000400,"SQDG(24:4)",C33H55O12S,[M+H]+,Glycosyldiradylglycerols
+677.270197,677.269800,0.000400,"LPIP(18:2)",C27H51O15P2,[M+H]+,Glycerophosphoinositol monophosphates
+677.270281,677.269800,0.000500,"LPIP(18:2)",C27H51O15P2,[M+H]+,Glycerophosphoinositol monophosphates
+701.355786,701.356500,0.000700,"SQDG(26:5)",C35H57O12S,[M+H]+,Glycosyldiradylglycerols
+725.270722,725.269800,0.001000,"LPIP(22:6)",C31H51O15P2,[M+H]+,Glycerophosphoinositol monophosphates
+742.619557,742.619100,0.000400,"HexCer(d37:1)",C43H84NO8,[M+H]+,Neutral glycosphingolipids
+743.448736,743.449400,0.000600,"PG(33:5(OH))",C39H68O11P,[M+H]+,Glycerophosphoglycerols
+834.564516,834.564300,0.000200,"PC(39:7(OH))",C47H81NO9P,[M+H]+,Glycerophosphocholines
+834.564516,834.564300,0.000200,"PE(42:7(OH))",C47H81NO9P,[M+H]+,Glycerophosphoethanolamines
+855.528784,855.528700,0.000100,"SQDG(37:5)",C46H79O12S,[M+H]+,Glycosyldiradylglycerols
+877.513534,877.513000,0.000500,"SQDG(39:8)",C48H77O12S,[M+H]+,Glycosyldiradylglycerols
+994.747686,994.747100,0.000600,"PS(51:4)",C57H105NO10P,[M+H]+,Glycerophosphoserines
+997.747349,997.746700,0.000600,"PG(51:4(OH))",C57H106O11P,[M+H]+,Glycerophosphoglycerols
+1006.768797,1006.768200,0.000600,"PI-Cer(t49:1)",C55H109NO12P,[M+H]+,Phosphosphingolipids
+1093.804001,1093.804200,0.000200,"PI(O-54:6)",C63H114O12P,[M+H]+,Glycerophosphoinositols
+1093.804001,1093.804200,0.000200,"PI(P-54:5)",C63H114O12P,[M+H]+,Glycerophosphoinositols
+1116.124280,1116.124300,0.000000,"TG(O-71:0)",C74H147O5,[M+H]+,Triradylglycerols
+1196.057276,1196.056600,0.000700,"TG(77:9)",C80H139O6,[M+H]+,Triradylglycerols

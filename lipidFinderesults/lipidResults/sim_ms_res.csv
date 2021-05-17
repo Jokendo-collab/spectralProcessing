@@ -1,0 +1,14 @@
+Input Mass,Matched Mass,Delta,Name,Formula,Adduct,Class
+370.235369,370.235300,0.000100,"S1P(t16:0)",C16H37NO6P,[M+H]+,Sphingoid bases
+381.202906,381.203700,0.000800,"LPA(14:1)",C17H34O7P,[M+H]+,Glycerophosphates
+429.224019,429.224800,0.000800,"LPG(12:0)",C18H38O9P,[M+H]+,Glycerophosphoglycerols
+459.251224,459.250600,0.000600,"LPA(20:4)",C23H40O7P,[M+H]+,Glycerophosphates
+485.457206,485.456400,0.000800,"MG(27:0)",C30H61O4,[M+H]+,Monoradylglycerols
+488.252916,488.252400,0.000500,"SHexSph(d14:0)",C20H42NO10S,[M+H]+,Acidic glycosphingolipids
+528.307679,528.308500,0.000800,"LPE(22:5)",C27H47NO7P,[M+H]+,Glycerophosphoethanolamines
+528.308977,528.308500,0.000500,"LPE(22:5)",C27H47NO7P,[M+H]+,Glycerophosphoethanolamines
+665.306037,665.306200,0.000100,"LPIP(P-18:0)",C27H55O14P2,[M+H]+,Glycerophosphoinositol monophosphates
+666.309020,666.309600,0.000600,"MIPC(t14:0)",C26H53NO16P,[M+H]+,Phosphosphingolipids
+725.270250,725.269800,0.000500,"LPIP(22:6)",C31H51O15P2,[M+H]+,Glycerophosphoinositol monophosphates
+745.576796,745.576500,0.000300,"DG(46:10)",C49H77O5,[M+H]+,Diradylglycerols
+1137.838174,1137.838700,0.000500,"DGDG(50:4)",C65H117O15,[M+H]+,Glycosyldiradylglycerols
